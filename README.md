@@ -1,4 +1,4 @@
-Generative Models Enable True Understanding: The Link Between Interpretability and Generative Ability
+Generative Models Enable True Understanding-The Link Between Interpretability and Generative Ability
 
 
 Yuan-Hao Wei
